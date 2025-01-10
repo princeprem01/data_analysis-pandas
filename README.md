@@ -1,2 +1,3 @@
 # pandas_work
-reading, viewing and selecting/slicing data, Filtering / conditions
+01: reading, viewing and selecting/slicing data, Filtering / conditions
+02: index, loc, iloc, crosstab
